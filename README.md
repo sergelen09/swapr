@@ -1,6 +1,6 @@
 # swapr
 _This site can be viewed live on  [Heroku](swapr-app.herokuapp.com)._
-### this app is a full on marketplae for trading goods with other users near your location.
+### Swapr is a full on marketplace for trading goods with other users near your location.
 
 _Technologies Used: Express, Node, mySQL, React, Sass, Materialize, GoogleMaps API, Firebase_
 
