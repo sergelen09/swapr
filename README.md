@@ -2,7 +2,7 @@
 
 ### this app is a full on marketplae for trading goods with other users near your location.
 
-_technologies used: Express, Node, mySQL, React, Sass_
+_Technologies Used: Express, Node, mySQL, React, Sass, Materialize, GoogleMaps API, Firebase_
 
 **Guest Login:**
 
