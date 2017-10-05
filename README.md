@@ -2,15 +2,15 @@
 
 ### this app is a full on marketplae for trading goods with other users near your location.
 ### Users can also chat with their pending swappers.
-<br>
+
 _technologies used: Express, Node, mySQL, React, Sass_
-<br><br>
+
 **Guest Login:**
 username: Guest
 pasword: 12345678
 
 ### Videos will walk through the entire functionality
-<br>
+
 #### 1. Signing up, setting user image, listing an item 
 
 [![swapr 1](https://user-images.githubusercontent.com/28736699/31216538-d8cc0bcc-a968-11e7-9482-a6215bd9f98b.png)](https://www.youtube.com/watch?v=mso7ma1QwI4&index=1&list=PLWXOuKoGtWRxboBdH5gUYN58ki34p6DjN&t=1s)
