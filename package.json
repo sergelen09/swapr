@@ -9,6 +9,9 @@
     "build-css": "./bin/build-css",
     "watch-css": "./bin/watch-css"
   },
+  "engines": {
+    "node": "12.13.0"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Forcium/swapr.git"
